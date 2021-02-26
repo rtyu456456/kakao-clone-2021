@@ -5,6 +5,7 @@
 
 /* Screens */
 @import "screens/login.css";
+@import "screens/friends.css";
 
 /* Components  */
 @import "components/status-bar.css";
@@ -14,4 +15,5 @@
 body {
   font-family: "Open Sans", sans-serif;
   height: 1000vh;
+  color: #2e363e;
 }
